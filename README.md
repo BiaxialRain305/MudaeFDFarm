@@ -1,5 +1,4 @@
-## CharacterForceDivorcer - Automating divorcing for Channels
-
+## Automate forcedivorcing
  This tool is designed to set a specific character and choose a designated channel. Once the character is claimed, the `$fd` command will be triggered, sending the specified command to the selected channel. This automation enables efficient farming capabilities.
 
 ### Instructions:
